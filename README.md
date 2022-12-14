@@ -9,3 +9,4 @@ dmo classs for git and githu
 
 this chamge from locallinux machine
 
+this change is from remote repo
